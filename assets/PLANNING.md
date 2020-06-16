@@ -1,9 +1,10 @@
 # Project Planning Documentation
 
-## Design Resources:
+## Design Resources
 
-- Demo Link: https://pixelarity.com/hyperbolic
-- ![Design Inspiration](https://github.com/CodeMeKathy/refactored-disco/blob/master/assets/Desktop.jpg 'Design Inspiration')
+- [Demo Link](https://pixelarity.com/hyperbolic)
+- Design Inspiration
+  ![Design Inspiration](https://github.com/CodeMeKathy/refactored-disco/blob/master/assets/Desktop.jpg 'Design Inspiration')
 
 ## TODOs
 
