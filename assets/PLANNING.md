@@ -4,9 +4,9 @@
 
 ### Components
 
-- [ ] Header
+- [ ] Navbar
+- [ ] Hero Div
       ![Header](https://github.com/CodeMeKathy/refactored-disco/blob/master/assets/Header.jpg?raw=true 'Header')
-
 - [ ] Footer
       ![Footer](https://github.com/CodeMeKathy/refactored-disco/blob/master/assets/Footer.jpg?raw=true 'Footer')
 
