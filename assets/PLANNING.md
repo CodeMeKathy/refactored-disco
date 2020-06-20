@@ -4,8 +4,8 @@
 
 ### Components
 
-- [ ] Navbar
-- [ ] Hero Div
+- [ ] Navbar w/ color line
+- [ ] Hero
       ![Header](https://github.com/CodeMeKathy/refactored-disco/blob/master/assets/Header.jpg?raw=true 'Header')
 - [ ] Footer
       ![Footer](https://github.com/CodeMeKathy/refactored-disco/blob/master/assets/Footer.jpg?raw=true 'Footer')
