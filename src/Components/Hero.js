@@ -1,22 +1,13 @@
-import React, { Component } from 'react'
+import React from 'react'
+import Navbar from './Navbar'
 
-
-// Old React class component setup
-export class Hero extends Component {
-  render() {
-    return (
-      
-    )
-  }
-}
-
-// New React => Functional Component
 const Hero = props => {
-  return(
+  return (
     <div>
       <h1>Hello, world!</h1>
+      <Navbar />
     </div>
-  );
+  )
 }
 
 export default Hero
