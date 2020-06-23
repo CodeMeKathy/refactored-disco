@@ -1,10 +1,12 @@
 import React from 'react'
-import NavbarCustom from './Navbar'
+
+// React Bootstrap Imports
+import NavbarCustom from './NavbarCustom'
 
 const Hero = props => {
   return (
     <div>
-      <h1>Hello, world!</h1>
+      <hr/>
       <NavbarCustom />
     </div>
   )
