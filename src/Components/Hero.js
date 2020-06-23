@@ -2,13 +2,14 @@ import React from 'react'
 
 // React Bootstrap Imports
 import NavbarCustom from './NavbarCustom'
+import Container from 'react-bootstrap/Container'
 
 const Hero = props => {
   return (
-    <div>
+    <Container fluid className='hero-container'>
       <hr/>
       <NavbarCustom />
-    </div>
+    </Container>
   )
 }
 
