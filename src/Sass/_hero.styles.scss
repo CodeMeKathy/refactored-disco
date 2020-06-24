@@ -2,4 +2,33 @@
   background-color: aliceblue;
   clip-path: circle(75.4% at 50% 0);
   height: 100vh;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.hr-line {
+  height: 0.75rem;
+  width: 100vw;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#5f91f0+0,ad1283+100,8a2ded+100 */
+  background: #5f91f0; /* Old browsers */
+  background: -moz-linear-gradient(
+    left,
+    #5f91f0 0%,
+    #ad1283 100%,
+    #8a2ded 100%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    left,
+    #5f91f0 0%,
+    #ad1283 100%,
+    #8a2ded 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to right,
+    #5f91f0 0%,
+    #ad1283 100%,
+    #8a2ded 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5f91f0', endColorstr='#8a2ded',GradientType=1 ); /* IE6-9 */
 }

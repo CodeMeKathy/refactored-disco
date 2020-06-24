@@ -7,7 +7,7 @@ import Container from 'react-bootstrap/Container'
 const Hero = props => {
   return (
     <Container fluid className='hero-container'>
-      <hr/>
+      <hr className='hr-line'/>
       <NavbarCustom />
     </Container>
   )
